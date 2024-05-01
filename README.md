@@ -13,3 +13,11 @@ MyBusinessCardApp is a simple Android application developed in Kotlin using Jetp
 To run this project, clone the repo and open it in Android Studio.
 
 git clone https://github.com/gitbiruk2010/Create-your-Own-Business-Card-Android-App
+
+## Usage
+
+  Once the app is installed on an Android device or emulator, it displays a static business card interface. You can modify the   contact information by editing the source code.
+## Built With
+  Android Studio - The IDE used for Android application development
+  Kotlin - Primary programming language
+  Jetpack Compose - Modern toolkit for building native UI
