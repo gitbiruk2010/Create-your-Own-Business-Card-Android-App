@@ -12,4 +12,4 @@ MyBusinessCardApp is a simple Android application developed in Kotlin using Jetp
 ## Installation
 To run this project, clone the repo and open it in Android Studio.
 
-git clone 
+git clone https://github.com/gitbiruk2010/Create-your-Own-Business-Card-Android-App
